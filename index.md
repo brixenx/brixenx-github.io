@@ -1,10 +1,10 @@
 ## Welcome f4cking pussy :D
 
-You can use the [editor on GitHub](https://www.youtube.com/watch?v=dQw4w9WgXcQ)) to maintain and preview the content for your website in Markdown files.
+You can use the [git deep](https://www.youtube.com/watch?v=dQw4w9WgXcQ)) to maintain and preview the content for your website files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+si
 
-### Markdown
+### no niggie
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
